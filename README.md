@@ -5,6 +5,10 @@ I retain all copyrights and licenses to these works, and my professors are aware
 Out of respect for my professors, please advise that cloning files or copying/pasting file content is expressly prohibited.  
 
 ---
+
+These works represent my learning curves throughout my career to date. For more details regarding any of these, please refer to [my website](https://hinrichs.engineering/portfolio).  
+
+---
 # Statistical & Machine Learning (Series)
 
 ## Hierarchical Clustering / Principal Component Analysis
