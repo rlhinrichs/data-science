@@ -9,7 +9,7 @@ Out of respect for my professors, please advise that cloning files or copying/pa
 These works represent my learning curves throughout my career to date. For more details regarding any of these, please refer to [my website](https://hinrichs.engineering/portfolio).  
 
 ---
-# Statistical & Machine Learning (Series)
+# Statistical & Machine Learning (Series) SPRING 2023
 
 ## Hierarchical Clustering / Principal Component Analysis
 - hierarchical-clustering.ipynb
@@ -47,7 +47,7 @@ These works represent my learning curves throughout my career to date. For more 
 - data/iris_dataset.csv
 
 ---
-# Data Mining (Big Data)
+# Data Mining (Big Data) FALL 2022
 
 ## PyCaret vs Traditional Machine Learning Methods
 - pycaret.ipynb
@@ -69,6 +69,47 @@ These works represent my learning curves throughout my career to date. For more 
 ## Exploratory Data Analysis / Visualization
 - data-viz.ipynb
 - data/BDParkinson_Prediction.csv
+
+---
+# Data Science (Tools & Visualizations) SPRING 2022
+
+## Neural Network / Optimization
+- cancer_classification.ipynb
+- data/cancer_classification.csv
+
+## Natural Language Processing
+- yelp.ipynb
+- data/yelp.csv
+
+## Clustering Analysis
+- College_Data.ipynb
+- data/college_data.csv
+
+## Random Forests
+- loan_data.ipynb
+- data/loan_data.csv
+
+## Support Vector Machines / GridSearchCV
+- iris.ipynb
+- data/iris.csv
+
+## Logistic Regression
+- advertising.ipynb
+- data/advertising.csv
+- KNN_Lab_Data.ipynb
+- data/KNN_Lab_Data.csv
+
+## Exploratory Data Analysis
+- EcommercePurchases.ipynb
+- data/EcommercePurchases.csv
+- TrainingGrounds.ipynb
+- data/TrainingGrounds.csv
+- ice_cream_sales.ipynb
+
+## Working with Data
+- portland_crime_incident.ipynb
+- data/portland_crime_incident_data2017.csv
+- lists_dictionaries.ipynb
 
 ---
 All Rights Reserved.  
