@@ -109,7 +109,7 @@ These early-career projects provided excellent introductions to data storytellin
 - data/TrainingGrounds.csv
 - ice-cream-sales.ipynb
 
-## Working with Data
+## Intro to Tabular Modeling
 - portland_crime_incident.ipynb
 - data/portland_crime_incident_data2017.csv
 - lists-dictionaries.ipynb
