@@ -115,4 +115,4 @@ These early-career projects provided excellent introductions to data storytellin
 - lists-dictionaries.ipynb
 
 ---
-All Rights Reserved.  
+© Rebecca Leigh Hinrichs. All Rights Reserved.  
