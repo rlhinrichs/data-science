@@ -3,7 +3,7 @@
 
 Data tells a story. By learning its story mathematically, we can infer how new data points would likely fit into the equation given similar meaningful relationships, were the story to continue. Machine Learning gives us methods to ingest and interpret the data so we can make predictions.  
 
-Understanding how to successfully tell that story is nuanced- given small datasets, imbalanced classes, sparse data, categorical versus continuous data points, to name a few- there's hardly a "one-size-fits-all" approach. It's a science to be sure, and a little bit of an art to interpret it well.  
+Understanding how to successfully tell that story is nuanced- given small datasets, imbalanced classes, sparse data, categorical versus continuous data points, to name a few- there's never a "one-size-fits-all" approach. It's a science to be sure, and a little bit of an art.  
 
 These projects represent highlights of my undergraduate career in Data Science. Please expect errors & messiness along the way. Currently, I've only included Python projects.    
 For more discussions regarding many of these and more, please refer to [my website](https://hinrichs.engineering/portfolio).  
