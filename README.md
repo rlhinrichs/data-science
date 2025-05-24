@@ -1,15 +1,16 @@
-# codes
----
-This is typically a private-access repo. If it's open momentarily, it's intended only for a potential employer.    
-I retain all copyrights and licenses to these works, and my professors are aware of these contents & their intermittent availability.  
-Out of respect for my professors, please advise that cloning files or copying/pasting file content is expressly prohibited.  
+# data-science
+---  
 
----
+Data tells a story. By learning its story mathematically, we can infer how new data points would likely fit into the equation given similar meaningful relationships, were the story to continue. Machine Learning gives us methods to ingest and interpret the data so we can make predictions.  
 
-These works represent my learning curves throughout my career to date. For more details regarding any of these, please refer to [my website](https://hinrichs.engineering/portfolio).  
+Understanding how to successfully tell that story is nuanced- given small datasets, imbalanced classes, sparse data, categorical versus continuous data points, to name a few- there's hardly a "one-size-fits-all" approach. It's a science to be sure, and a little bit of an art to interpret it well.  
+
+These projects represent highlights of my undergraduate career in Data Science. Please expect errors & messiness along the way. Currently, I've only included Python projects.    
+For more discussions regarding many of these and more, please refer to [my website](https://hinrichs.engineering/portfolio).  
 
 ---
 # Statistical & Machine Learning (Series) SPRING 2023
+Investigations of what kinds of problems these principal Python libraries were born to solve. Additionally, we learn how to counteract model overfitting to allow better generalization, and how to address the variance-bias tradeoff algorithmically (<i>y = mx + b</i> where <i>b</i> is bias and <i>m</i> are calculated weights).  
 
 ## Hierarchical Clustering / Principal Component Analysis
 - hierarchical-clustering.ipynb
@@ -48,6 +49,7 @@ These works represent my learning curves throughout my career to date. For more 
 
 ---
 # Data Mining (Big Data) FALL 2022
+Explorations of how to ingest, wrangle, transform, and interpret large data sets for meaningful extraction and interpretation. Most of the data we used in these projects were anonymous medical records for research, providing excellent real-world examples of optimization tools and techniques.  
 
 ## PyCaret vs Traditional Machine Learning Methods
 - pycaret.ipynb
@@ -72,9 +74,10 @@ These works represent my learning curves throughout my career to date. For more 
 
 ---
 # Data Science (Tools & Visualizations) SPRING 2022
+These early-career projects provided excellent introductions to data storytelling.
 
 ## Neural Network / Optimization
-- cancer_classification.ipynb
+- cancer-classification.ipynb
 - data/cancer_classification.csv
 
 ## Natural Language Processing
@@ -82,7 +85,7 @@ These works represent my learning curves throughout my career to date. For more 
 - data/yelp.csv
 
 ## Clustering Analysis
-- College_Data.ipynb
+- college-data.ipynb
 - data/college_data.csv
 
 ## Random Forests
@@ -96,20 +99,20 @@ These works represent my learning curves throughout my career to date. For more 
 ## Logistic Regression
 - advertising.ipynb
 - data/advertising.csv
-- KNN_Lab_Data.ipynb
+- knn-lab-data.ipynb
 - data/KNN_Lab_Data.csv
 
 ## Exploratory Data Analysis
-- EcommercePurchases.ipynb
+- ecommerce-purchases.ipynb
 - data/EcommercePurchases.csv
-- TrainingGrounds.ipynb
+- training-grounds.ipynb
 - data/TrainingGrounds.csv
-- ice_cream_sales.ipynb
+- ice-cream-sales.ipynb
 
 ## Working with Data
 - portland_crime_incident.ipynb
 - data/portland_crime_incident_data2017.csv
-- lists_dictionaries.ipynb
+- lists-dictionaries.ipynb
 
 ---
 All Rights Reserved.  
