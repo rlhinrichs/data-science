@@ -116,6 +116,3 @@ These early-career projects provided excellent introductions to data storytellin
 
 ---
 All Rights Reserved.  
-
-No part of this software may be used, copied, modified or distributed in any form
-without the prior written consent of Rebecca Leigh Hinrichs.
