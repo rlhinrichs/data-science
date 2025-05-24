@@ -5,7 +5,7 @@ Data tells a story. By learning its story mathematically, we can infer how new d
 
 Understanding how to successfully tell that story is nuanced- given small datasets, imbalanced classes, sparse data, categorical versus continuous data points, to name a few- there's never a "one-size-fits-all" approach. It's a science to be sure, and a little bit of an art.  
 
-These projects represent highlights of my undergraduate career in Data Science. Please expect errors & messiness along the way. Currently, I've only included Python projects.    
+These projects represent highlights of my undergraduate career in Data Science. Please expect errors & messiness along the way. Currently, I've only included Python projects. 
 For more discussions regarding many of these and more, please refer to [my website](https://hinrichs.engineering/portfolio).  
 
 ---
